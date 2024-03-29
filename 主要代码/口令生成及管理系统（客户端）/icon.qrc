@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>icon/preview-close-one.png</file>
+        <file>icon/preview-open.png</file>
+           <file>icon/background.png</file>
+          <file>icon/qbackground.jpg</file>
+    </qresource>
+</RCC>
